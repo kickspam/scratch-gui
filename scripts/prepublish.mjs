@@ -3,6 +3,7 @@
 // operating system or architecture of the target system, use a prepublish script."
 // Once this step is complete, a developer should be able to work without an Internet connection.
 // See also: https://docs.npmjs.com/cli/using-npm/scripts
+//hello
 
 import fs from 'fs';
 import path from 'path';
